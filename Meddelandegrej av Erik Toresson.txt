@@ -1,0 +1,7 @@
+
+
+ConsoleMsgBAtea – Enkel Console App för att skriva meddelande till LocalDB. Använder lokal tidsstämpel automatiskt.
+
+MessageBoardAtea – WebApp skapad genom MVC som hanterar meddelanden. Använder samma LocalDB.
+
+Båda projekt använder Entity Framework 6.
